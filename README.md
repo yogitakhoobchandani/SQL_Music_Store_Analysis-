@@ -1,6 +1,8 @@
 # SQL_Music_Store_Analysis-
 Digital Music Store data analysis using SQL
 
+## Project Overview
+This project analyzes a music store database using SQL to extract insights on customer behavior, sales trends, and popular genres.
 
 ## Database and Tools
 * Postgre SQL
